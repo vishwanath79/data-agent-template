@@ -1,0 +1,21 @@
+customer_id,name,email,country,signup_date
+1,Nina Patel,nina.patel@acme.com,US,2023-02-14
+2,Marcus Chen,marcus.chen@acme.com,US,2023-03-02
+3,Sofia Rossi,sofia.rossi@acme.com,IT,2023-03-21
+4,Aarav Sharma,aarav.sharma@acme.com,IN,2023-04-05
+5,Emma Wilson,emma.wilson@acme.com,UK,2023-04-19
+6,Lucas Silva,lucas.silva@acme.com,BR,2023-05-11
+7,Yuki Tanaka,yuki.tanaka@acme.com,JP,2023-05-30
+8,Clara Dubois,clara.dubois@acme.com,FR,2023-06-15
+9,Jon Weber,jon.weber@acme.com,DE,2023-07-01
+10,Priya Nair,priya.nair@acme.com,IN,2023-07-22
+11,Tom Becker,tom.becker@acme.com,DE,2023-08-08
+12,Isabel Ortiz,isabel.ortiz@acme.com,MX,2023-08-25
+13,Ravi Kumar,ravi.kumar@acme.com,IN,2023-09-12
+14,Anna Kowalski,anna.kowalski@acme.com,PL,2023-09-28
+15,Diego Ramos,diego.ramos@acme.com,MX,2023-10-10
+16,Mia Johnson,mia.johnson@acme.com,US,2023-10-24
+17,Felix Braun,felix.braun@acme.com,DE,2023-11-06
+18,Leila Haddad,leila.haddad@acme.com,AE,2023-11-20
+19,Owen Murphy,owen.murphy@acme.com,IE,2023-12-03
+20,Grace Kim,grace.kim@acme.com,KR,2023-12-18

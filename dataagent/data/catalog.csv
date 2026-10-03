@@ -1,0 +1,4 @@
+name,description,owner,tables
+sales,"Customer and order data for the retail business. Contains customer profiles and purchase records.",data-eng@acme.com,"customers,orders"
+marketing,"Campaign performance events from the growth team with one row per campaign day and channel.",growth@acme.com,campaign_events
+finance,"Revenue and billing ledgers restricted to the finance team.",finance@acme.com,

@@ -1,0 +1,5 @@
+pydantic==2.13.5
+duckdb==1.5.5
+pytest==9.1.1
+openai==3.16.2
+python-dotenv==1.2.3
